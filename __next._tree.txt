@@ -1,2 +1,0 @@
-:HL["./next-assets/static/css/8b689ff834b6f608.css","style"]
-0:{"buildId":"LtqCMLKWH4LP2C7I0UuGs","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
